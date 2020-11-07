@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android_ActivitySwitch</string>
+    <string name="B_page">切換 B 頁面</string>
+    <string name="A_page">切換 A 頁面</string>
+    <string name="yellow">綠色背景</string>
+    <string name="black">藍色背景</string>
+</resources>
