@@ -1,0 +1,3 @@
+# ActivitySwitch_6AndroidStudio
+Activity傳值切換
+Activity値渡しスイッチ
